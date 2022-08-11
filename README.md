@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/37111215/184219074-1d199728-1884-4545-
 - Unity XR framework for standardized VR commands.
 
 ## Installation
-Copy the project on your PC.
-Follow the first 3 installment steps from https://github.com/digital-standard/ThreeDPoseUnityBarracuda
-Download the Resnet34 onx model here:
+- Copy the project on your PC.
+- Follow the first 3 installment steps from https://github.com/digital-standard/ThreeDPoseUnityBarracuda
+- Download the Resnet34 onx model here:
 https://digital-standard.com/threedpose/models/Resnet34_3inputs_448x448_20200609.onnx
 
 ## Restrictions and problems
